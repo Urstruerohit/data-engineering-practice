@@ -1,1 +1,2 @@
-revenue = 10000
+revenue = 15000
+print("Total revenue:", revenue)
